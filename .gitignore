@@ -1,2 +1,10 @@
 .DS_Store
 *.png
+OpenCL/openclkm
+OpenCL/Times/
+OpenCL/data/
+OpenCL/Test/
+OpenCL/results
+OpenCL/sqkm
+OpenCL/mpikm
+OpenCL/Results/
